@@ -1,18 +1,4 @@
-## Getting Started
+ que hace? el metodo sumaFila(matriz) es un metodo que suma cada numero de cada fila y muestra cuanto es la suma de los numeros de cada fila.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+por que lo elegiste? porque es algo que me parecio facil de hacer y todavia medio me acuerdo que salio en el segundo parcial entonces estoy fresca en esa parte.
+ 
